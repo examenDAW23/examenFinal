@@ -1,3 +1,4 @@
+
 h1{
     display: flex;
     align-items: center;
@@ -7,4 +8,9 @@ p{
 }
 h3{
     color: red;
+}
+h1{
+    display: flex;
+    align-items: center;
+
 }
